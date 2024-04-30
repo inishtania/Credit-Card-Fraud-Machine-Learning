@@ -1,4 +1,5 @@
 # Credit-Card-Fraud-Machine-Learning
+![image](https://github.com/inishtania/Credit-Card-Fraud-Machine-Learning/assets/161575787/cb4d6f14-2dd0-48e4-81cd-729645816aa0)
 
 As a data scientist at a top bank in Indonesia, our team received reports from the credit card department regarding customer complaints about fraud. Customers question the absence of a fraud detection system to alert them before too many transactions become criminal, thus minimizing losses.
 
